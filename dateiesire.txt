@@ -1,0 +1,1 @@
+Suma elementelor aflate deasupra diagonalei principale este: 30

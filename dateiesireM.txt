@@ -1,0 +1,2 @@
+Produsul celor doua matrice este 
+123 243 
